@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761821694834",
+    "project_id": "farmura-mobile",
+    "storage_bucket": "farmura-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761821694834:android:a9ee20dc3456142d956beb",
+        "android_client_info": {
+          "package_name": "com.edmonseiga.farmura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761821694834-sv7ptr6e68q2tas0ondgolrfj8m7pg6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYmEbRU8O1goC1xEN9e8KtQ94hflSbLC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761821694834-sv7ptr6e68q2tas0ondgolrfj8m7pg6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

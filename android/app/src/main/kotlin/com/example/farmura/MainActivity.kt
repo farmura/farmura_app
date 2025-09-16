@@ -1,4 +1,4 @@
-package com.example.farmura
+package com.edmonseiga.farmura
 
 import io.flutter.embedding.android.FlutterActivity
 
